@@ -1,0 +1,1 @@
+print("\t\t\t\t\t\t\t\t*\n\t\t\t\t\t\t\t*\t\t*\n\t\t\t\t\t\t*\t\t\t\t*\n\t\t\t\t\t*\t\tJodeley S. Claro\t\t*\n\t\t\t\t\t\t*\t\t\t\t*\n\t\t\t\t\t\t\t*\t\t*\n\t\t\t\t\t\t\t\t*")
