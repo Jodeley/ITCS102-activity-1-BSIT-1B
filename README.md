@@ -1,7 +1,7 @@
 These are my Coding Files for the Subject of Fundamentals of Computer Programming
  * Jodeley S. Claro
  * 025A-12966
- * I'm a student passionate about learning and impproving my skills in programming, problem solving, and technology.
+ * I'm a student passionate about learning and improving my skills in programming, problem solving, and technology.
 
 #ITCCS102 - Fundamentals of Computer Programming
 
