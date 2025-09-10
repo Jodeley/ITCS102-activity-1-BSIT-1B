@@ -3,7 +3,7 @@ print("Answer a few questions to find your next read!")
 genre = input("What genre do you like? (romance/action/ slice of life/horror/sci-fi) ")
 duration = input("How long should the manga be? (short/medium/long) ")
 year = input("What year? (2000s/2010s) ")
-
+# Romance 
 if genre == "romance": 
      if duration == "short":
        if year == "2000s":
