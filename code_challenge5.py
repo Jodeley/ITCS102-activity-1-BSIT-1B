@@ -6,5 +6,5 @@ nmbr = eval(input("\nEnter the number ---> "))
 for i in range(nmbr, 0, -1):
     fctrl *= i
 
-
 print("The factorial number of", nmbr, "is", fctrl)
+
